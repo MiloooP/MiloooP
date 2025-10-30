@@ -1,7 +1,7 @@
-<!-- 🌈 Banner principal -->
+<!-- 🌊 Banner principal -->
 <div align="center">
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0,128,255,128,0,255&text=A&passionate&Systems&Engineering&student&and&future&Web&y&AI&Developer&fontSize=40&reversal=true" />
+       src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FFFF,0066FF,000033,000000&text=A%20passionate%20Systems%20Engineering%20student%20and%20future%20Web%20%26%20AI%20Developer&fontColor=FFFFFF&fontSize=40&reversal=true" />
 </div>
 
 <!-- 💬 Encabezado -->
