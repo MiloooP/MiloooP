@@ -1,6 +1,6 @@
 <!-- 🌈 Banner principal -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0:3A0CA3,50:7209B7,100:4361EE&fontColor=ffffff&text=Welcome%20to%20MiloooP's%20Space%20🚀&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Systems%20Engineering%20Student%20%7C%20Web%20and%20AI%20Developer&descAlignY=75" />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0,0,255,128,0,255&reversal=true" />
 </div>
 
 <!-- 💬 Encabezado -->
