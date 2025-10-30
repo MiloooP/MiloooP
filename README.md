@@ -1,13 +1,19 @@
 <!-- 🌊 Banner principal -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:330000&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Systems%20Engineer%20|%20Data%20Analyst%20|%20Web%20Developer&descSize=27&descAlignY=85&section=header" />
 
-I am a dedicated and responsible professional in training, known for being respectful, honest, organized, and highly proactive.
-I maintain a positive and adaptable attitude toward challenges, always committed to excellence in every task I undertake.
+I am a dedicated and responsible professional in training, 
+known for being respectful, honest, organized, and highly proactive.
+I maintain a positive and adaptable attitude toward challenges, 
+always committed to excellence in every task I undertake.
 
 I am passionate about technology, software development, and artificial intelligence.
-My goal is to continuously strengthen my skills in analysis, design, and development of technological solutions, contributing to growth and innovation within the digital field.
+My goal is to continuously strengthen my skills in analysis, design, 
+and development of technological solutions, contributing to growth 
+and innovation within the digital field.
 
-I am currently pursuing a degree in Systems Engineering, focusing on web development, data analytics, and applied artificial intelligence.
+I am currently pursuing a degree in Systems Engineering, 
+focusing on web development, data analytics, 
+and applied artificial intelligence.
 
 <!-- 💬 Encabezado -->
 <h3 align="center"> 💻</h3>
