@@ -1,7 +1,6 @@
 <!-- 🌊 Banner principal -->
-<div align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?color=0:ff0000,50:990000,100:330000&type=waving&height=250&section=header&text=Hi!%20I'm%20Esteban%20Camilo%20Álvarez%20Montes&fontColor=FFFFFF&fontSize=45&fontAlignY=40&desc=Systems%20Engineering%20Student%20%7C%20Future%20Web%20%26%20AI%20Developer&descAlignY=70&descAlign=50&animation=fadeIn"
-  alt="header"/>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
 <!-- 💬 Encabezado -->
