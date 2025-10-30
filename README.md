@@ -44,7 +44,7 @@ and applied artificial intelligence.
 </div>
 
 <!-- 🤝 Redes -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="https://www.instagram.com/camilo_n8n/?__pwa=1" width="60" height="60"/>
 
 <!-- 💻 Lenguajes -->
 <h3 align="left">💻 Programming Languages</h3>
