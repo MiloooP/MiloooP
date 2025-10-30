@@ -1,6 +1,7 @@
 <!-- 🌈 Banner principal -->
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0,0,255,128,0,255&reversal=true" />
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0,128,255,128,0,255&text=Hola%20Mundo&fontSize=40&reversal=true" />
 </div>
 
 <!-- 💬 Encabezado -->
