@@ -44,7 +44,9 @@ and applied artificial intelligence.
 </div>
 
 <!-- 🤝 Redes -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="https://www.instagram.com/camilo_n8n/?__pwa=1" width="60" height="60"/>
+<a href="https://www.instagram.com/camilo_n8n/?__pwa=1" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+</a>
 
 <!-- 💻 Lenguajes -->
 <h3 align="left">💻 Programming Languages</h3>
