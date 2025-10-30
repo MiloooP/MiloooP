@@ -1,31 +1,16 @@
 <!-- 🌈 Banner principal -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&color=0:00BFFF,100:8A2BE2&fontColor=ffffff&text=Welcome%20to%20MiloooP's%20Space%20🚀&fontSize=48&fontAlignY=40&desc=Systems%20Engineering%20Student%20%7C%20Future%20Web%20and%20AI%20Developer&descAlignY=75&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:3A0CA3,50:7209B7,100:4361EE&fontColor=ffffff&text=Welcome%20to%20MiloooP's%20Space%20🚀&fontSize=48&fontAlignY=40&desc=Systems%20Engineering%20Student%20%7C%20Future%20Web%20and%20AI%20Developer&descAlignY=75&animation=fadeIn" />
 </div>
 
 <!-- 💬 Encabezado -->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/MiloooP" target="blank">MiloooP</a></h1>
 <h3 align="center">A passionate Systems Engineering student and future Web & AI Developer 💻</h3>
 
-<!-- 👁️ Contador de visitas -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MiloooP&label=Profile%20views&color=00BFFF&style=flat" alt="MiloooP" />
-</p>
-
-<!-- 💫 Redes sociales -->
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/MiloooP?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
-</p>
-
 <!-- 🎬 Imagen animada -->
-<a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
----
-
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 25px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px;">
+    
 - 👨‍💻 I'm a **Systems Engineering student** passionate about **technology and innovation**.  
 - 🚀 I'm focused on becoming a **Full Stack & AI Developer**, learning and building projects that solve real problems.  
 - 🌱 Currently learning **Back-End**, **APIs**, and **Machine Learning fundamentals**.  
@@ -33,7 +18,14 @@
 - 📫 Reach me at **Alvarezmontesestebancamilo@gmail.com**.  
 - ⚡ Fun fact: I love mixing **creative design** with **logical code** to build awesome things.  
 
+  </div>
+
 ---
+  
+  <div style="flex: 1; min-width: 280px; text-align: center;">
+    <img align="center" height="280" width="380" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border-radius: 10px; margin-top: 20px;">
+  </div>
+</div>
 
 <h3 align="center">🤝 Connect with me</h3>
 
@@ -102,19 +94,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=MiloooP&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
 </div>
-
----
-
-## 🔗 Contact Me
-<p align="center">
-  <a href="mailto:Alvarezmontesestebancamilo@gmail.com" target="_blank">
-    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/camilo_n8n" target="_blank">
-    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" />
-  </a>
-</p>
 
 ---
 
