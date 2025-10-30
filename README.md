@@ -45,7 +45,7 @@ and applied artificial intelligence.
 
 <!-- 🤝 Redes -->
 <a href="https://www.instagram.com/camilo_n8n/?__pwa=1" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60" height="60"/>
 </a>
 
 <!-- 💻 Lenguajes -->
