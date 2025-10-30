@@ -1,9 +1,7 @@
 <!-- 🌊 Banner principal -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:ff0000,50:990000,100:330000&height=250&section=header&text=A%20passionate%20Systems%20Engineering%20student%20and%20future%20Web%20%26%20AI%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
+A passionate Systems Engineering student and future Web & AI Developer
 
 <!-- 💬 Encabezado -->
 <h3 align="center"> 💻</h3>
