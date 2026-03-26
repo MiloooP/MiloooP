@@ -36,28 +36,10 @@ and applied artificial intelligence.
 <!-- 💻 Lenguajes -->
 
 <!-- 📚 Frameworks -->
-<h3 align="left">📚 Libraries & Frameworks</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60"/>  
-</p>
 
 <!-- 🔧 Tools -->
-<h3 align="left">🔧 Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows" />
-</p>
 
 <!-- 📊 Estadísticas -->
-<h3 align="left">📈 GitHub Stats</h3>
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiloooP&theme=github_dark" width="700"/>
-  <br><br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MiloooP&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" width="700"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiloooP&show_icons=true&locale=en&layout=compact&theme=radical" width="700"/>
-</div>
 
 ---
 
