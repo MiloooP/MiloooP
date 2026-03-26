@@ -20,22 +20,6 @@ and applied artificial intelligence.
 ---
 
 <!-- 💬 Encabezado -->
-<h3 align="center"> 💻</h3>
-
-<!-- 🎬 Sección principal: texto + imagen -->
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 30px; flex-wrap: wrap;">
-
-  <!-- Texto a la izquierda -->
-  <div style="flex: 1; min-width: 320px;">
-    <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
-      <li>👨‍💻 I'm a <b>Systems Engineering student</b> passionate about <b>technology and innovation</b>.</li>
-      <li>🚀 Focused on becoming a <b>Full Stack & AI Developer</b>, learning and building projects that solve real problems.</li>
-      <li>🌱 Currently learning <b>Back-End</b>, <b>APIs</b>, and <b>Machine Learning fundamentals</b>.</li>
-      <li>💬 Ask me about <b>Front-End development</b>, <b>React</b>, or <b>my learning journey</b>.</li>
-      <li>📫 Reach me at <b>Alvarezmontesestebancamilo@gmail.com</b>.</li>
-      <li>⚡ Fun fact: I love mixing <b>creative design</b> with <b>logical code</b> to build awesome things.</li>
-    </ul>
-  </div>
 
   <!-- Imagen a la derecha -->
   <div style="flex: 1; min-width: 320px; text-align: right;">
@@ -50,10 +34,6 @@ and applied artificial intelligence.
 </a>
 
 <!-- 💻 Lenguajes -->
-<h3 align="left">💻 Programming Languages</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,js,git,python,vscode" />
-</p>
 
 <!-- 📚 Frameworks -->
 <h3 align="left">📚 Libraries & Frameworks</h3>
